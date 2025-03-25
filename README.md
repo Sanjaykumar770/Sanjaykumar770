@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaykumar770&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaykumar770" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjaykumar770" alt="sanjaykumar770" /></a> </p>
 
 - 👨‍💻 All of my projects are available at GitHub [https://github.com/Sanjaykumar770?tab=repositories](https://github.com/Sanjaykumar770?tab=repositories)
 
